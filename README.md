@@ -28,7 +28,7 @@ TDLib (Telegram Database library) is a cross-platform library for building [Tele
 * **Secure**: all local data is encrypted using a user-provided encryption key.
 * **Fully-asynchronous**: requests to `TDLib` don't block each other or anything else, responses are sent when they are available.
 
-<a name="usage"></a>
+<a name="usage"></a>b
 ## Examples and documentation
 See our [Getting Started](https://core.telegram.org/tdlib/getting-started) tutorial for a description of basic TDLib concepts.
 
